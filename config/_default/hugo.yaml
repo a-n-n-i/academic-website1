@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Ni's website# Website name
+title: website of Ni An# Website name
 baseURL: 'https://example.com/' # Website URL
 
 ############################
@@ -37,7 +37,7 @@ outputs:
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
-  quality: 200
+  quality: 1000
   anchor: smart
 timeout: 600000
 taxonomies:
