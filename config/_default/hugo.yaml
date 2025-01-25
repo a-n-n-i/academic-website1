@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: website of Ni An   # Website name
+title: websiteAn   # Website name
 baseURL: 'https://example.com/' # Website URL
 
 ############################
@@ -11,8 +11,8 @@ baseURL: 'https://example.com/' # Website URL
 ############################
 
 defaultContentLanguage: en
-hasCJKLanguage: false
-defaultContentLanguageInSubdir: false
+hasCJKLanguage: true
+defaultContentLanguageInSubdir: true
 removePathAccents: true
 
 ############################
@@ -21,7 +21,7 @@ removePathAccents: true
 
 build:
   writeStats: true
-enableGitInfo: false
+enableGitInfo: true
 summaryLength: 30
 pagination:
   pagerSize: 10
