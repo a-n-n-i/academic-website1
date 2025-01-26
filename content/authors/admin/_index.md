@@ -22,7 +22,7 @@ role: PhD in sustech
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: department of mathematics
-# url: https://www.example.com/
+url: https://www.example.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
