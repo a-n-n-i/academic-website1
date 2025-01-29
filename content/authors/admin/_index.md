@@ -21,7 +21,7 @@ role: PhD in Sustech
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
+  - name: Sustech
     url: https://www.example.com/
 
 # Social network links
