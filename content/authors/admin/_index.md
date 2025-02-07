@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 吳健雄
+title: 安妮
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Ni An
 
 # Full name (for SEO)
 first_name: Shiung Wu
