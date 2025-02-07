@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 安妮ni
+title: 安妮
 
 # Name pronunciation (optional)
 name_pronunciation: Ni An
