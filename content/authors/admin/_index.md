@@ -6,8 +6,8 @@ title: 安妮
 name_pronunciation: Ni An
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Ni
+last_name: An
 
 # Status emoji
 status:
@@ -21,7 +21,7 @@ role: Director of Cloud Infrastructure
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
+  - name: Sustech
     url: https://www.example.com/
 
 # Social network links
